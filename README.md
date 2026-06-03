@@ -86,5 +86,3 @@ Launch the application instances to evaluate server routing behaviors.
 | **Script Payload Injection** | ❌ Vulnerable | Secured | Strict HTML Context Encoding |
 | **Source Automated Scanning** | ⚠️ Risks Detected | Passed | Backend Refactoring & Hardening |
 *Disclaimer: This repository is intended strictly for instructional use, educational review, and authorized security training assessments.*
-```
-
