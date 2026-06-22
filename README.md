@@ -1,6 +1,6 @@
-# CodeAlpha - Secure Coding Review (Vulnerability Assessment & Remediation)
+#  Secure Coding Review (Vulnerability Assessment & Remediation)
 
-A comprehensive security audit project demonstrating the identification, analysis, and professional remediation of common web application vulnerabilities (specifically SQL Injection and Cross-Site Scripting - XSS) within a Python Flask backend. Developed as part of the **CodeAlpha** Cyber Security Internship.
+A comprehensive security audit project demonstrating the identification, analysis, and professional remediation of common web application vulnerabilities (specifically SQL Injection and Cross-Site Scripting - XSS) within a Python Flask backend. 
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
@@ -21,7 +21,7 @@ This project showcases a complete backend "Before & After" security lifecycle of
 
 ## 📁 Project Architecture
 ```text
-CodeAlpha_SecureCodingReview/
+SecureCodingReview/
 │
 ├── vulnerable_app.py   # Flask backend containing SQLi and XSS vulnerabilities
 ├── secure_app.py       # Patched Flask backend using secure coding practices
@@ -49,8 +49,8 @@ CodeAlpha_SecureCodingReview/
 ## 🚀 Installation & Setup
  1. **Clone the Repository:**
 ```bash
-git clone [https://github.com/solda-rasam/CodeAlpha_SecureCodingReview.git](https://github.com/solda-rasam/CodeAlpha_SecureCodingReview.git)
-cd CodeAlpha_SecureCodingReview
+git clone [https://github.com/solda-rasam/SecureCodingReview.git](https://github.com/solda-rasam/SecureCodingReview.git)
+cd SecureCodingReview
 
 ```
  2. **Install Dependencies:**
